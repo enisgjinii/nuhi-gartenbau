@@ -13,7 +13,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
 ?>
 
 <!-- Navbar Start -->
-<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5 py-lg-0">
+<nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top px-4 px-lg-5">
     <a href="index.php" class="navbar-brand d-flex align-items-center">
         <h1 class="m-0">
            NUHI-GARTENBAU
