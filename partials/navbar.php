@@ -4,7 +4,7 @@ $menu_items = [
     'index.php' => 'Startseite',
     'about.php' => 'Über uns',
     'service.php' => 'Unsere Leistungen',
-    'team.php' => 'Unser Team',
+    'gallery.php' => 'Galerie',
     'contact.php' => 'Kontaktiere uns'
 ];
 

@@ -1,0 +1,546 @@
+[
+  {
+    "image": "1.jpg",
+    "title": "Modern Tile Roof Creation",
+    "subtitle": "Experience the joy of a perfectly maintained tile roof.",
+    "predictions": [
+      {
+        "label": "Tile Roof",
+        "confidence": 0.2999049425125122
+      },
+      {
+        "label": "Sundial",
+        "confidence": 0.0869932770729065
+      }
+    ]
+  },
+  {
+    "image": "10.jpg",
+    "title": "Blooming Patio Masterpiece",
+    "subtitle": "Enhance your property value with beautiful patio features.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9987754225730896
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 4.7052340050868224e-06
+      }
+    ]
+  },
+  {
+    "image": "11.jpg",
+    "title": "Tranquil Patio Wonderland",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.7061668038368225
+      }
+    ]
+  },
+  {
+    "image": "12.jpg",
+    "title": "Tranquil Patio Oasis",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.021911315619945526
+      },
+      {
+        "label": "Parking Meter",
+        "confidence": 0.02105586789548397
+      }
+    ]
+  },
+  {
+    "image": "13.jpg",
+    "title": "Elegant Patio Escape",
+    "subtitle": "Let us bring your patio dreams to life.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9428402185440063
+      }
+    ]
+  },
+  {
+    "image": "14.jpg",
+    "title": "Modern Patio Design",
+    "subtitle": "Discover the potential of your outdoor space with our patio expertise.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.3350001871585846
+      }
+    ]
+  },
+  {
+    "image": "15.jpg",
+    "title": "Modern Greenhouse Paradise",
+    "subtitle": "Experience the joy of a perfectly maintained greenhouse.",
+    "predictions": [
+      {
+        "label": "Greenhouse",
+        "confidence": 0.147236630320549
+      },
+      {
+        "label": "Patio",
+        "confidence": 0.03989866375923157
+      },
+      {
+        "label": "Streetcar",
+        "confidence": 0.02047109790146351
+      },
+      {
+        "label": "Parking Meter",
+        "confidence": 0.013860831037163734
+      }
+    ]
+  },
+  {
+    "image": "16.jpg",
+    "title": "Blooming Parking Meter Design",
+    "subtitle": "Bring nature closer with our parking meter solutions.",
+    "predictions": [
+      {
+        "label": "Parking Meter",
+        "confidence": 0.04809916019439697
+      }
+    ]
+  },
+  {
+    "image": "17.jpg",
+    "title": "Lush Streetcar Retreat",
+    "subtitle": "Discover the potential of your outdoor space with our streetcar expertise.",
+    "predictions": [
+      {
+        "label": "Streetcar",
+        "confidence": 0.04230400174856186
+      }
+    ]
+  },
+  {
+    "image": "18.jpg",
+    "title": "Modern Patio Paradise",
+    "subtitle": "Elevate your garden with professional patio services.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9521436095237732
+      }
+    ]
+  },
+  {
+    "image": "19.jpg",
+    "title": "Vibrant Lumbermill Oasis",
+    "subtitle": "Enhance your property value with beautiful lumbermill features.",
+    "predictions": [
+      {
+        "label": "Lumbermill",
+        "confidence": 0.7552544474601746
+      },
+      {
+        "label": "Crate",
+        "confidence": 0.18556520342826843
+      }
+    ]
+  },
+  {
+    "image": "2.jpg",
+    "title": "Lush Streetcar Creation",
+    "subtitle": "Discover the potential of your outdoor space with our streetcar expertise.",
+    "predictions": [
+      {
+        "label": "Streetcar",
+        "confidence": 0.023125823587179184
+      }
+    ]
+  },
+  {
+    "image": "20.jpg",
+    "title": "Lush Patio Wonderland",
+    "subtitle": "Enhance your property value with beautiful patio features.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9638002514839172
+      },
+      {
+        "label": "Lawn Mower",
+        "confidence": 0.0007454307051375508
+      }
+    ]
+  },
+  {
+    "image": "21.jpg",
+    "title": "Rustic Patio Creation",
+    "subtitle": "Elevate your garden with professional patio services.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.08175363391637802
+      },
+      {
+        "label": "Lawn Mower",
+        "confidence": 0.03559356927871704
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.033295366913080215
+      }
+    ]
+  },
+  {
+    "image": "22.jpg",
+    "title": "Picturesque Patio Escape",
+    "subtitle": "Elevate your garden with professional patio services.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.7090157866477966
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.06904826313257217
+      }
+    ]
+  },
+  {
+    "image": "23.jpg",
+    "title": "Vibrant Patio Design",
+    "subtitle": "Bring nature closer with our patio solutions.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.0321788527071476
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.024681564420461655
+      }
+    ]
+  },
+  {
+    "image": "24.jpg",
+    "title": "Vibrant Patio Haven",
+    "subtitle": "Discover the potential of your outdoor space with our patio expertise.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.8058499693870544
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.005458979867398739
+      },
+      {
+        "label": "Street Sign",
+        "confidence": 0.004658862948417664
+      }
+    ]
+  },
+  {
+    "image": "25.jpg",
+    "title": "Lush Patio Haven",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.24290376901626587
+      }
+    ]
+  },
+  {
+    "image": "26.jpg",
+    "title": "Rustic Patio Retreat",
+    "subtitle": "Enhance your property value with beautiful patio features.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.3141464293003082
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.07457562536001205
+      }
+    ]
+  },
+  {
+    "image": "27.jpg",
+    "title": "Serene Patio Wonderland",
+    "subtitle": "Elevate your garden with professional patio services.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.165534108877182
+      }
+    ]
+  },
+  {
+    "image": "28.jpg",
+    "title": "Rustic Birdhouse Design",
+    "subtitle": "Elevate your garden with professional birdhouse services.",
+    "predictions": [
+      {
+        "label": "Birdhouse",
+        "confidence": 0.7935472130775452
+      },
+      {
+        "label": "Manhole Cover",
+        "confidence": 0.0237878505140543
+      }
+    ]
+  },
+  {
+    "image": "29.jpg",
+    "title": "Enchanting Patio Sanctuary",
+    "subtitle": "Bring nature closer with our patio solutions.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.850750207901001
+      },
+      {
+        "label": "Park Bench",
+        "confidence": 0.004406776279211044
+      }
+    ]
+  },
+  {
+    "image": "3.jpg",
+    "title": "Enchanting Patio Retreat",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.4998675286769867
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.012544149532914162
+      }
+    ]
+  },
+  {
+    "image": "30.jpg",
+    "title": "Rustic Patio Wonderland",
+    "subtitle": "Enhance your property value with beautiful patio features.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.06020297855138779
+      }
+    ]
+  },
+  {
+    "image": "31.jpg",
+    "title": "Classic Patio Haven",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9234135150909424
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.014732875861227512
+      },
+      {
+        "label": "Park Bench",
+        "confidence": 0.012144685722887516
+      }
+    ]
+  },
+  {
+    "image": "32.jpg",
+    "title": "Modern Patio Creation",
+    "subtitle": "Let us bring your patio dreams to life.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.7827398180961609
+      }
+    ]
+  },
+  {
+    "image": "33.jpg",
+    "title": "Modern Patio Escape",
+    "subtitle": "Create a stunning patio focal point in your landscape.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.7735561728477478
+      }
+    ]
+  },
+  {
+    "image": "34.jpg",
+    "title": "Vibrant Patio Paradise",
+    "subtitle": "Let us bring your patio dreams to life.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.6104452610015869
+      }
+    ]
+  },
+  {
+    "image": "35.jpg",
+    "title": "Picturesque Patio Retreat",
+    "subtitle": "Experience the joy of a perfectly maintained patio.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.6401260495185852
+      }
+    ]
+  },
+  {
+    "image": "36.jpg",
+    "title": "Lush Patio Sanctuary",
+    "subtitle": "Create a stunning patio focal point in your landscape.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.008468921296298504
+      }
+    ]
+  },
+  {
+    "image": "37.jpg",
+    "title": "Classic Greenhouse Retreat",
+    "subtitle": "Discover the potential of your outdoor space with our greenhouse expertise.",
+    "predictions": [
+      {
+        "label": "Greenhouse",
+        "confidence": 0.005152662750333548
+      }
+    ]
+  },
+  {
+    "image": "38.jpg",
+    "title": "Classic Parking Meter Escape",
+    "subtitle": "Enhance your property value with beautiful parking meter features.",
+    "predictions": [
+      {
+        "label": "Parking Meter",
+        "confidence": 0.236457958817482
+      },
+      {
+        "label": "Patio",
+        "confidence": 0.05166501924395561
+      }
+    ]
+  },
+  {
+    "image": "39.jpg",
+    "title": "Charming Patio Design",
+    "subtitle": "Transform your outdoor space with expert patio design.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.2575567364692688
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.06565356999635696
+      }
+    ]
+  },
+  {
+    "image": "4.jpg",
+    "title": "Verdant Web Site Paradise",
+    "subtitle": "Experience the joy of a perfectly maintained web site.",
+    "predictions": [
+      {
+        "label": "Web Site",
+        "confidence": 0.8261761665344238
+      },
+      {
+        "label": "Computer Keyboard",
+        "confidence": 0.020068088546395302
+      }
+    ]
+  },
+  {
+    "image": "5.jpg",
+    "title": "Blooming Patio Paradise",
+    "subtitle": "Elevate your garden with professional patio services.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.5895913243293762
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.20443487167358398
+      }
+    ]
+  },
+  {
+    "image": "6.jpg",
+    "title": "Lush Patio Creation",
+    "subtitle": "Bring nature closer with our patio solutions.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.12327791005373001
+      }
+    ]
+  },
+  {
+    "image": "7.jpg",
+    "title": "Elegant Patio Retreat",
+    "subtitle": "Enhance your property value with beautiful patio features.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9592247009277344
+      },
+      {
+        "label": "Greenhouse",
+        "confidence": 0.00010527348058531061
+      }
+    ]
+  },
+  {
+    "image": "8.jpg",
+    "title": "Picturesque Parking Meter Oasis",
+    "subtitle": "Create a stunning parking meter focal point in your landscape.",
+    "predictions": [
+      {
+        "label": "Parking Meter",
+        "confidence": 0.0442458875477314
+      }
+    ]
+  },
+  {
+    "image": "9.jpg",
+    "title": "Enchanting Patio Creation",
+    "subtitle": "Create a stunning patio focal point in your landscape.",
+    "predictions": [
+      {
+        "label": "Patio",
+        "confidence": 0.9943609833717346
+      }
+    ]
+  },
+  {
+    "image": "icons8-leaf-96.png",
+    "title": "Modern Digital Clock Retreat",
+    "subtitle": "Bring nature closer with our digital clock solutions.",
+    "predictions": [
+      {
+        "label": "Digital Clock",
+        "confidence": 0.18424995243549347
+      },
+      {
+        "label": "Pick",
+        "confidence": 0.11874014884233475
+      }
+    ]
+  }
+]

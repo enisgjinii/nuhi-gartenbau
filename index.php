@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8" />
   <title>NUHI-GARTENBAU - Startseite</title>
@@ -7,7 +8,7 @@
   <meta content="" name="keywords" />
   <meta content="" name="description" />
   <!-- Favicon -->
-  <link href="img/favicon.ico" rel="icon" />
+  <!-- <link href="img/favicon.ico" rel="icon" /> -->
   <!-- Google Web Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -22,7 +23,9 @@
   <link href="css/bootstrap.min.css" rel="stylesheet" />
   <!-- Template Stylesheet -->
   <link href="css/style.css" rel="stylesheet" />
+  <link type="image/png" sizes="96x96" rel="icon" href="assets/icons8-leaf-96.png">
 </head>
+
 <body>
   <?php include 'partials/spinner.php'; ?>
   <?php include 'partials/toopbar.php'; ?>
@@ -32,7 +35,7 @@
     <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="w-100" src="img/carousel-1.jpg" alt="Image" />
+          <img class="w-100" src="assets/11.jpg" alt="Image" />
           <div class="carousel-caption">
             <div class="container">
               <div class="row justify-content-center">
@@ -54,14 +57,14 @@
                       Industrie
                     </li>
                   </ol>
-                  <a href="" class="btn btn-primary py-3 px-5">Mehr Details</a>
+                  <!-- <a href="" class="btn btn-primary py-3 px-5">Mehr Details</a> -->
                 </div>
               </div>
             </div>
           </div>
         </div>
         <div class="carousel-item">
-          <img class="w-100" src="img/carousel-2.jpg" alt="Image" />
+          <img class="w-100" src="assets/10.jpg" alt="Image" />
           <div class="carousel-caption">
             <div class="container">
               <div class="row justify-content-center">
@@ -107,7 +110,7 @@
       <div class="row g-5">
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
           <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px">
-            <img class="position-absolute w-100 h-100" src="img/about.jpg" alt="" style="object-fit: cover" />
+            <img class="position-absolute w-100 h-100" src="assets/15.jpg" alt="" style="object-fit: cover" />
             <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px">
               <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
                 <h1 class="text-white">25</h1>
@@ -122,28 +125,28 @@
             <div class="border-start border-5 border-primary ps-4 mb-5">
               <h6 class="text-body text-uppercase mb-2">Über Uns</h6>
               <h1 class="display-6 mb-0">
-                Einzigartige Lösungen für Wohn- und Industriebereiche!
+                Maßgeschneiderte Lösungen für Wohn- und Gewerbeimmobilien!
               </h1>
             </div>
             <p>
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet.
+              Wir bieten einzigartige und innovative Lösungen, die sowohl für den privaten als auch für den industriellen Bereich maßgeschneidert sind. Unser erfahrenes Team arbeitet eng mit Ihnen zusammen, um Ihre Vision Wirklichkeit werden zu lassen.
             </p>
             <p class="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet.
+              Unsere Dienstleistungen umfassen eine breite Palette von Design- und Bauleistungen, die alle Ihre Anforderungen abdecken. Von der Planung bis zur Ausführung setzen wir höchste Standards, um sicherzustellen, dass jedes Projekt termingerecht und im Rahmen des Budgets abgeschlossen wird.
             </p>
             <div class="border-top mt-4 pt-4">
               <div class="row g-4">
                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.1s">
                   <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                  <h6 class="mb-0">Pünktlicher Service</h6>
+                  <h6 class="mb-0">Zuverlässige Lieferung</h6>
                 </div>
                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.3s">
                   <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                  <h6 class="mb-0">24/7 Stunden Service</h6>
+                  <h6 class="mb-0">24/7 Erreichbarkeit</h6>
                 </div>
                 <div class="col-sm-4 d-flex wow fadeIn" data-wow-delay="0.5s">
                   <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                  <h6 class="mb-0">Geprüfte Fachleute</h6>
+                  <h6 class="mb-0">Fachkompetenz garantiert</h6>
                 </div>
               </div>
             </div>
@@ -158,53 +161,49 @@
     <div class="row g-0">
       <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.1s">
         <div class="position-relative">
-          <img class="img-fluid w-100" src="img/fact-1.jpg" alt="" />
+          <img class="img-fluid w-100" src="assets/19.jpg" alt="" />
           <div class="facts-overlay">
             <h1 class="display-1">01</h1>
             <h4 class="text-white mb-3">Gartenplanung</h4>
             <p class="text-white">
               Professionelle Planung für Gärten jeder Größe, angepasst an Ihre Bedürfnisse und Wünsche.
             </p>
-            <a class="text-white small" href="">MEHR ERFAHREN<i class="fa fa-arrow-right ms-3"></i></a>
           </div>
         </div>
       </div>
       <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.3s">
         <div class="position-relative">
-          <img class="img-fluid w-100" src="img/fact-2.jpg" alt="" />
+          <img class="img-fluid w-100" src="assets/20.jpg" alt="" />
           <div class="facts-overlay">
             <h1 class="display-1">02</h1>
             <h4 class="text-white mb-3">Landschaftsbau</h4>
             <p class="text-white">
               Gestaltung und Bau von Außenanlagen, die Ästhetik und Funktionalität vereinen.
             </p>
-            <a class="text-white small" href="">MEHR ERFAHREN<i class="fa fa-arrow-right ms-3"></i></a>
           </div>
         </div>
       </div>
       <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.5s">
         <div class="position-relative">
-          <img class="img-fluid w-100" src="img/fact-3.jpg" alt="" />
+          <img class="img-fluid w-100" src="assets/21.jpg" alt="" />
           <div class="facts-overlay">
             <h1 class="display-1">03</h1>
             <h4 class="text-white mb-3">Gartenpflege</h4>
             <p class="text-white">
               Umfassende Pflegeleistungen, um Ihren Garten gesund und schön zu halten.
             </p>
-            <a class="text-white small" href="">MEHR ERFAHREN<i class="fa fa-arrow-right ms-3"></i></a>
           </div>
         </div>
       </div>
       <div class="col-xl-3 col-sm-6 wow fadeIn" data-wow-delay="0.7s">
         <div class="position-relative">
-          <img class="img-fluid w-100" src="img/fact-4.jpg" alt="" />
+          <img class="img-fluid w-100" src="assets/22.jpg" alt="" />
           <div class="facts-overlay">
             <h1 class="display-1">04</h1>
             <h4 class="text-white mb-3">Grünflächenmanagement</h4>
             <p class="text-white">
               Effiziente Verwaltung und Pflege von Grünflächen für Wohn- und Gewerbegebiete.
             </p>
-            <a class="text-white small" href="">MEHR ERFAHREN<i class="fa fa-arrow-right ms-3"></i></a>
           </div>
         </div>
       </div>
@@ -258,7 +257,7 @@
         </div>
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
           <div class="position-relative overflow-hidden ps-5 pt-5 h-100" style="min-height: 400px">
-            <img class="position-absolute w-100 h-100" src="img/feature.jpg" alt="" style="object-fit: cover" />
+            <img class="position-absolute w-100 h-100" src="assets/25.jpg" alt="" style="object-fit: cover" />
             <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px">
               <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
                 <h1 class="text-white">25</h1>
@@ -273,7 +272,7 @@
   </div>
   <!-- Features End -->
   <!-- Service Start -->
-  <div class="container-xxl py-5">
+  <!-- <div class="container-xxl py-5">
     <div class="container">
       <div class="row g-5 align-items-end mb-5">
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -363,10 +362,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- Service End -->
   <!-- Appointment Start -->
-  <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
+  <!-- <div class="container-fluid appointment my-5 py-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
       <div class="row g-5">
         <div class="col-lg-5 col-md-6 wow fadeIn" data-wow-delay="0.3s">
@@ -423,10 +422,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- Appointment End -->
   <!-- Team Start -->
-  <div class="container-xxl py-5">
+  <!-- <div class="container-xxl py-5">
     <div class="container">
       <div class="row g-5 align-items-end mb-5">
         <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -471,11 +470,14 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
   <!-- Team End -->
   <!-- Testimonial Start -->
+
   <div class="container-xxl py-5">
     <div class="container">
+      <hr class="wow fadeInUp" data-wow-delay="0.1s" />
+      <br>
       <div class="row g-5">
         <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
           <div class="border-start border-5 border-primary ps-4 mb-5">
@@ -541,4 +543,5 @@
   <!-- Template Javascript -->
   <script src="js/main.js"></script>
 </body>
+
 </html>
