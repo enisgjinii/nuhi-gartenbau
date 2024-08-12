@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
   <meta charset="utf-8" />
   <title>NUHI-GARTENBAU - Kontakt</title>
@@ -22,7 +23,20 @@
   <link href="css/bootstrap.min.css" rel="stylesheet" />
   <!-- Template Stylesheet -->
   <link href="css/style.css" rel="stylesheet" />
+  <script type="text/javascript">
+    (function(c, l, a, r, i, t, y) {
+      c[a] = c[a] || function() {
+        (c[a].q = c[a].q || []).push(arguments)
+      };
+      t = l.createElement(r);
+      t.async = 1;
+      t.src = "https://www.clarity.ms/tag/" + i;
+      y = l.getElementsByTagName(r)[0];
+      y.parentNode.insertBefore(t, y);
+    })(window, document, "clarity", "script", "nmbdj7zl0r");
+  </script>
 </head>
+
 <body>
   <?php include 'partials/spinner.php'; ?>
   <?php include 'partials/toopbar.php'; ?>
@@ -176,4 +190,5 @@
   <!-- Template Javascript -->
   <script src="js/main.js"></script>
 </body>
+
 </html>

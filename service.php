@@ -43,7 +43,9 @@ $formFields = [
 ?>
 <!DOCTYPE html>
 <html lang="de">
+
 <head>
+
   <meta charset="utf-8" />
   <title>Nuhi Gartenbau - Unsere Dienstleistungen</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
@@ -67,7 +69,20 @@ $formFields = [
   <link href="css/style.css" rel="stylesheet" />
   <!-- SweetAlert2 CSS -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.min.css">
+  <script type="text/javascript">
+    (function(c, l, a, r, i, t, y) {
+      c[a] = c[a] || function() {
+        (c[a].q = c[a].q || []).push(arguments)
+      };
+      t = l.createElement(r);
+      t.async = 1;
+      t.src = "https://www.clarity.ms/tag/" + i;
+      y = l.getElementsByTagName(r)[0];
+      y.parentNode.insertBefore(t, y);
+    })(window, document, "clarity", "script", "nmbdj7zl0r");
+  </script>
 </head>
+
 <body>
   <?php include 'partials/spinner.php'; ?>
   <?php include 'partials/toopbar.php'; ?>
@@ -214,4 +229,5 @@ $formFields = [
     });
   </script>
 </body>
+
 </html>
