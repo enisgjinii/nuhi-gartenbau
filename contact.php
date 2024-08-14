@@ -164,7 +164,7 @@
         var formData = $(this).serialize();
         $.ajax({
           type: "POST",
-          url: "contact_form_handler.php",
+          url: "send_message.php",
           data: formData,
           success: function(response) {
             Swal.fire({

@@ -125,7 +125,7 @@
             <img class="position-absolute w-100 h-100" src="assets/15.jpg" alt="" style="object-fit: cover" />
             <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px">
               <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                <h1 class="text-white">25</h1>
+                <h1 class="text-white">20</h1>
                 <h2 class="text-white">Jahre</h2>
                 <h5 class="text-white mb-0">Erfahrung</h5>
               </div>
@@ -247,9 +247,9 @@
             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.2s">
               <div class="d-flex align-items-center mb-3">
                 <i class="fa fa-check fa-2x text-primary flex-shrink-0 me-3"></i>
-                <h6 class="mb-0">Über 25 Jahre Erfahrung</h6>
+                <h6 class="mb-0">Über 20 Jahre Erfahrung</h6>
               </div>
-              <span>Mit mehr als 25 Jahren Erfahrung im Gartenbau sind wir Ihr zuverlässiger Partner für alle Gartenprojekte.</span>
+              <span>Mit mehr als 20 Jahren Erfahrung im Gartenbau sind wir Ihr zuverlässiger Partner für alle Gartenprojekte.</span>
             </div>
             <div class="col-sm-6 wow fadeIn" data-wow-delay="0.3s">
               <div class="d-flex align-items-center mb-3">
@@ -272,7 +272,7 @@
             <img class="position-absolute w-100 h-100" src="assets/25.jpg" alt="" style="object-fit: cover" />
             <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px">
               <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                <h1 class="text-white">25</h1>
+                <h1 class="text-white">20</h1>
                 <h2 class="text-white">Jahre</h2>
                 <h5 class="text-white mb-0">Erfahrung</h5>
               </div>

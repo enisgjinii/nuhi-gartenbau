@@ -62,7 +62,7 @@
             <img class="position-absolute w-100 h-100" src="assets/2.jpg" alt="Über Uns" style="object-fit: cover" />
             <div class="position-absolute top-0 start-0 bg-white pe-3 pb-3" style="width: 200px; height: 200px">
               <div class="d-flex flex-column justify-content-center text-center bg-primary h-100 p-3">
-                <h1 class="text-white">25</h1>
+                <h1 class="text-white">20</h1>
                 <h2 class="text-white">Jahre</h2>
                 <h5 class="text-white mb-0">Erfahrung</h5>
               </div>
