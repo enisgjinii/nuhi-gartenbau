@@ -30,6 +30,21 @@ $services = [
     'title' => 'Gartenrenovierung',
     'description' => 'Bringen Sie frischen Wind in Ihren Garten mit unseren Renovierungsleistungen. Wir erneuern müde Landschaften und hauchen Ihren Außenbereichen neues Leben ein.',
     'image' => 'assets/35.jpg'
+  ],
+  [
+    'title' => 'Zaunbau',
+    'description' => 'Sichern und verschönern Sie Ihr Zuhause mit unserem maßgeschneiderten Zaunbau-Service.',
+    'image' => 'assets/40.jpeg'
+  ],
+  [
+    'title' => 'Pflaster-und Natursteinarbeiten',
+    'description' => 'Gestalten Sie elegante Außenbereiche mit unseren Pflaster- und Natursteinarbeiten.',
+    'image' => 'assets/41.jpeg'
+  ],
+  [
+    'title' => 'Pflaster-und Natursteinarbeiten',
+    'description' => 'Schützen und verschönern Sie Ihren Garten mit professionellen Pflaster- und Natursteinarbeiten.',
+    'image' => 'assets/42.jpeg'
   ]
 ];
 // Define form fields
@@ -81,6 +96,7 @@ $formFields = [
       y.parentNode.insertBefore(t, y);
     })(window, document, "clarity", "script", "nmbdj7zl0r");
   </script>
+  <script src="tawk.js"></script>
 </head>
 
 <body>

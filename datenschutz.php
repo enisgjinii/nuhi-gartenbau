@@ -59,6 +59,7 @@
             margin: 0;
         }
     </style>
+    <script src="tawk.js"></script>
 </head>
 
 <body>
@@ -69,11 +70,11 @@
     <!-- Privacy Policy Section Start -->
     <div class="container privacy-policy">
         <div class="contact-info">
-            <h2>UKI Gartenbau</h2>
-            <p>Hohenwarter Str. 84<br>85276 Pfaffenhofen a. d. Ilm</p>
-            <p>📞 +49 176 833 449 43</p>
-            <p>📧 info@uki-gartenbau.de</p>
-            <p>Inhaber: Ukshin Baliu</p>
+            <h2>Nuhi Gartenbau</h2>
+            <p>Grundweg 30, 93309 Kelheim, Germany</p>
+            <p>📞 +49 170 3896766 </p>
+            <p>📧 nuhi@nuhi-gartenbau.de</p>
+            <p>Inhaber: Nuhi Bytyqi</p>
         </div>
 
         <h1>Datenschutzerklärung</h1>
@@ -104,67 +105,54 @@
 
         <h2>Erhebung von Zugriffsdaten</h2>
         <p>
-            Die Auslieferung und Darstellung der Inhalte über unsere Webseite erfordert technisch die Erfassung bestimmter Daten. Mit Ihrem Zugriff auf unsere Webseite werden diese sogenannten Server-Logfiles durch uns oder den Provider des Webspace erfasst. Diese Logfiles erlauben keinen Rückschluss auf Sie und Ihre Person. Die entsprechenden Informationen bestehen aus dem Namen der Webseite, der Datei, dem aktuellen Datum, der Datenmenge, dem Webrowser und seiner Version, dem eingesetzten Betriebssystem, dem Domain-Namen Ihres Internet-Providers, der Referrer-URL als jene Seite, von der Sie auf unsere Seite gewechselt sind, sowie der entsprechenden IP-Adresse. Wir nutzen diese Daten zur Darstellung und Auslieferung unserer Inhalte sowie zu statistischen Zwecken. Die Informationen unterstützen die Bereitstellung und ständige Verbesserung unseres Angebots. Auch behalten wir uns vor, die erwähnten Daten nachträglich zu prüfen, sollte der Verdacht auf eine rechtswidrige Nutzung unseres Angebotes bestehen.
-        </p>
-
-        <h2>Kontaktformular</h2>
-        <p>
-            Wenn Sie uns per Kontaktformular Anfragen zukommen lassen, werden Ihre Angaben aus dem Anfrageformular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.
-        </p>
-        <p>
-            Die Verarbeitung der in das Kontaktformular eingegebenen Daten erfolgt somit ausschließlich auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Sie können diese Einwilligung jederzeit widerrufen. Dazu reicht eine formlose Mitteilung per E-Mail an uns. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitungsvorgänge bleibt vom Widerruf unberührt.
-        </p>
-        <p>
-            Die von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.
+            Die Auslieferung und Darstellung der Inhalte über unsere Webseite erfordert technisch die Erfassung bestimmter Daten. Mit Ihrem Zugriff auf unsere Webseite werden diese sogenannten Server-Logfiles durch uns oder den Provider des Webspace erfasst. Diese Logfiles erlauben keinen Rückschluss auf Sie und Ihre Person. Die entsprechenden Informationen bestehen aus dem Namen der Webseite, der Datei, dem aktuellen Datum, der Datenmenge, dem Webrowser und seiner Version, dem eingesetzten Betriebssystem, dem Domain-Namen Ihres Internet-Providers, der Referrer-URL als jene Seite, von der Sie auf unsere Seite gewechselt sind, sowie der entsprechenden IP-Adresse. Wir nutzen diese Daten zur Darstellung und Auslieferung unserer Inhalte sowie zu statistischen Zwecken. Die Informationen unterstützen die Bereitstellung und ständige Verbesserung unseres Angebots. Auch behalten wir uns vor, die genannten Daten nachträglich zu prüfen, sollten der Verdacht auf eine rechtswidrige Nutzung unseres Angebotes bestehen.
         </p>
 
         <h2>Inhalte und Dienste von Drittanbietern</h2>
         <p>
-            Das Angebot auf unserer Webseite erfasst unter Umständen auch Inhalte, Dienste und Leistungen von anderen Anbietern, die unser Angebot ergänzen. Beispiele für solche Angebote sind Karten von Google Maps. Der Aufruf dieser Leistungen von dritter Seite erfordert regelmäßig die Übermittlung Ihrer IP-Adresse. Damit ist es diesen Anbietern möglich, Ihre Nutzer-IP-Adresse wahrzunehmen und diese auch zu speichern. Wir bemühen uns sehr, nur solche Drittanbieter einzubeziehen, die IP-Adressen allein zur Auslieferung der Inhalte nutzen. Wir haben dabei jedoch keinen Einfluss darauf, welcher Drittanbieter gegebenenfalls die IP-Adresse speichert. Diese Speicherung kann zum Beispiel statistischen Zwecken dienen. Sollten wir von Speicherungsvorgängen durch Drittanbieter Kenntnis erlangen, weisen wir unsere Nutzer unverzüglich auf diese Tatsache hin. Beachten Sie bitte in diesem Zusammenhang auch die speziellen Datenschutzerklärungen zu einzelnen Drittanbietern und Dienstleistern, deren Service wir auf unserer Webseite nutzen.
+            Das Angebot auf unserer Webseite erfasst auch Inhalte, Dienste und Leistungen von anderen Anbietern, die unser Angebot ergänzen. Beispiele für solche Angebote sind Karten von Google-Maps, YouTube-Videos oder Grafiken Dritter. Der Aufruf dieser Dienste von Drittanbietern erfordert regelmäßig die Übermittlung Ihrer IP-Adresse. Damit ist es diesen Anbietern möglich, Ihre Nutzer-IP-Adresse wahrzunehmen und diese auch zu speichern. Diese Drittanbieter können keine personenbezogenen Daten ausschließlich mit der IP-Adresse verknüpfen. Wir haben keinen Einfluss darauf, welcher Drittanbieter die IP-Adresse möglicherweise speichert. Diese Speicherung kann unter anderem statistischen Zwecken dienen. Sollte uns bekannt sein, dass die IP-Adresse gespeichert wird, weisen wir unsere Nutzer darauf hin.
         </p>
 
-        <h2>Google Web Fonts</h2>
+        <h2>Newsletter und Co.</h2>
         <p>
-            Diese Seite nutzt zur einheitlichen Darstellung von Schriftarten so genannte Web Fonts, die von Google bereitgestellt werden. Beim Aufruf einer Seite lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.
+            Melden Sie sich auf unserer Webseite für unseren Newsletter an, nutzen wir die von Ihnen eingegebenen Daten ausschließlich für diesen Zweck oder um Sie über für diesen Dienst oder die Registrierung relevante Umstände zu informieren. Diese Daten geben wir nicht an Dritte weiter.
         </p>
         <p>
-            Zu diesem Zweck muss der von Ihnen verwendete Browser Verbindung zu den Servern von Google aufnehmen. Hierdurch erlangt Google Kenntnis darüber, dass über Ihre IP-Adresse unsere Website aufgerufen wurde. Die Nutzung von Google Web Fonts erfolgt im Interesse einer einheitlichen und ansprechenden Darstellung unserer Online-Angebote. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
+            Für den Empfang des Newsletters ist eine valide (gültige) E-Mail-Adresse erforderlich. Gespeichert wird auch die IP-Adresse, über die Sie sich für den Newsletter anmelden, sowie das Datum, an dem Sie den Newsletter bestellen. Diese Daten dienen uns als Nachweis im Fall des Missbrauchs, falls eine fremde E-Mail-Adresse für den Newsletter angemeldet wird. Um zudem sicherzustellen, dass eine E-Mail-Adresse nicht missbräuchlich durch Dritte in unseren Verteiler eingetragen wird, arbeiten wir im Einklang mit dem Gesetz mit dem sogenannten „Double-opt-in“-Verfahren. Im Rahmen dieses Verfahrens wird die Bestellung des Newsletters, der Versand der Bestätigungsmail und der Eingang der Anmeldebestätigung protokolliert.
         </p>
         <p>
-            Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihrem Computer genutzt.
+            Sie haben jederzeit die Möglichkeit, Ihre Einwilligung zur Speicherung der Daten, Ihrer E-Mail-Adresse und deren Nutzung für den Newsletter-Versand zu widerrufen. Für den Widerruf stellen wir Ihnen in jedem Newsletter und auf der Webseite einen Link zur Verfügung. Sie haben zudem die Möglichkeit, uns Ihren entsprechenden Wunsch über die in dieser Datenschutzerklärung genannten Kontaktmöglichkeiten mitzuteilen.
         </p>
+        <h2>Kontaktformular</h2>
         <p>
-            Weitere Informationen zu Google Web Fonts finden Sie unter <a href="https://developers.google.com/fonts/faq" target="_blank">https://developers.google.com/fonts/faq</a> und in der Datenschutzerklärung von Google: <a href="https://www.google.com/policies/privacy/" target="_blank">https://www.google.com/policies/privacy/</a>.
+            Wenn Sie uns über das Online-Formular oder per E-Mail kontaktieren, speichern wir die von Ihnen gemachten Angaben, um Ihre Anfrage beantworten und mögliche Anschlussfragen stellen zu können.
         </p>
 
-        <h2>Google Maps</h2>
+        <h2>Einbindung von Diensten und Inhalten Dritter</h2>
         <p>
-            Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
+            Es kann vorkommen, dass innerhalb unseres Onlineangebotes Inhalte Dritter, wie zum Beispiel YouTube-Videos, Kartenmaterial von Google-Maps, RSS-Feeds oder Grafiken von anderen Webseiten eingebunden werden. Dies setzt immer voraus, dass die Anbieter dieser Inhalte (nachfolgend bezeichnet als „Dritt-Anbieter“) die IP-Adresse der Nutzer wahrnehmen. Denn ohne die IP-Adresse, könnten sie die Inhalte nicht an den Browser des jeweiligen Nutzers senden. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Jedoch haben wir keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für statistische Zwecke speichern. Soweit dies uns bekannt ist, klären wir die Nutzer darüber auf.
         </p>
-        <p>
-            Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung.
-        </p>
-        <p>
-            Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
-        </p>
-        <p>
-            Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: <a href="https://www.google.de/intl/de/policies/privacy/" target="_blank">https://www.google.de/intl/de/policies/privacy/</a>.
-        </p>
+
     </div>
     <!-- Privacy Policy Section End -->
 
-    <?php include 'partials/footer.php'; ?>
     <!-- Back to Top -->
     <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <?php include 'partials/footer.php'; ?>
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="lib/wow/wow.min.js"></script>
     <script src="lib/easing/easing.min.js"></script>
     <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- SweetAlert2 JavaScript -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
 </body>
 
 </html>

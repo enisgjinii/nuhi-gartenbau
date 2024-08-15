@@ -1,4 +1,5 @@
 <!-- Footer Start -->
+
 <?php include 'visitor_count.php'; ?>
 <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
@@ -15,7 +16,7 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Adresse</h4>
-                <p><i class="fa fa-map-marker-alt me-3"></i>Bergstraße 123, 12345 Musterstadt, Deutschland</p>
+                <p><i class="fa fa-map-marker-alt me-3"></i>Grundweg 30, 93309 Kelheim, Germany</p>
                 <p><i class="fa fa-phone-alt me-3"></i>+49 170 3896766</p>
                 <p><i class="fa fa-envelope me-3"></i>nuhi@nuhi-gartenbau.de</p>
             </div>
