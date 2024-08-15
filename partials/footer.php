@@ -30,7 +30,7 @@
             <!-- Information -->
             <div class="col-lg-3 col-md-6">
                 <h4 class="text-light mb-4">Informationen</h4>
-                <a class="btn btn-link" href="impressum.php">Impressum</a>
+                <!-- <a class="btn btn-link" href="impressum.php">Impressum</a> -->
                 <a class="btn btn-link" href="datenschutz.php">Datenschutz</a>
             </div>
         </div>
