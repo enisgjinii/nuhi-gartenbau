@@ -37,7 +37,7 @@
   <script src="tawk.js"></script>
 </head>
 <body>
-  <?php include 'partials/spinner.php'; ?>
+  <?php //include 'partials/spinner.php'; ?>
   <?php include 'partials/toopbar.php'; ?>
   <?php include 'partials/navbar.php'; ?>
   <!-- Page Header Start -->

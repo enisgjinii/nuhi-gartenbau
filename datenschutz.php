@@ -63,7 +63,7 @@
 </head>
 
 <body>
-    <?php include 'partials/spinner.php'; ?>
+    <?php //include 'partials/spinner.php'; ?>
     <?php include 'partials/toopbar.php'; ?>
     <?php include 'partials/navbar.php'; ?>
 

@@ -1,6 +1,6 @@
 <!-- Footer Start -->
 
-<?php include 'visitor_count.php'; ?>
+<?php //include 'visitor_count.php'; ?>
 <div class="container-fluid bg-dark footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
         <div class="row g-5">
@@ -42,7 +42,6 @@
                     &copy; <a href="#">Nuhi Gartenbau</a>, Alle Rechte vorbehalten.
                 </div>
                 <div class="col-md-6 text-center text-md-end">
-                    <p class="text-light">Besucherzahl: <?php echo htmlspecialchars($current_count); ?></p>
                     Design von <a href="https://enisgjini.framer.website/">Enis Gjini</a>
                 </div>
             </div>
